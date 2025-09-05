@@ -62,4 +62,4 @@ managedNodeGroups:
     asgSuspendProcesses: ["AZRebalance"]
     tags:
       Component : devtron-ng-managed
-      kubernetes.io/cluster/stage-cluster: owned
+      
